@@ -40,8 +40,8 @@ class MyApp extends StatelessWidget {
                 ),
                 Divider(
                   height: 20.0,
-                  indent: 90.0,
-                  endIndent: 90.0,
+                  indent: 89.0,
+                  endIndent: 89.0,
                   color: Colors.teal.shade100,
                   thickness: 1.0,
                 ),
